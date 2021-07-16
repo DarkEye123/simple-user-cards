@@ -1,6 +1,6 @@
 # If you wonder what this should do
 
-You can check how application works on _this_ [video](https://github.com/DarkEye123/simple-user-cards/blob/homework/app_video.mp4)
+You can check how application works on _this_ [video](https://github.com/DarkEye123/simple-user-cards/blob/master/app_video.mp4)
 
 ## If you want to know how I proceeded in this project
 
@@ -16,7 +16,7 @@ Whole project is in typescript - apart from [Cypress](https://www.cypress.io/) E
 
 3. ### Styling
 
-   I used [styled-components](https://styled-components.com/) for styling. I've provided an example of the [theme](https://github.com/DarkEye123/simple-user-cards/blob/homework/src/theme.ts) To improve the power of css-in-js solution, I've decided to re-use some helpful ideas from sass world via package [polished](https://github.com/styled-components/polished)
+   I used [styled-components](https://styled-components.com/) for styling. I've provided an example of the [theme](https://github.com/DarkEye123/simple-user-cards/blob/master/src/theme.ts) To improve the power of css-in-js solution, I've decided to re-use some helpful ideas from sass world via package [polished](https://github.com/styled-components/polished)
 
 4. ### Testing & Project Development tweaks
 
@@ -30,8 +30,8 @@ In the project directory, you can run:
 
 ## things I learned new
 
-- react-placeholder - [here](https://github.com/DarkEye123/simple-user-cards/blob/homework/src/hooks/useDummyPlaceholders.tsx)
-- react-async-hook - [here](https://github.com/DarkEye123/simple-user-cards/blob/homework/src/views/User.tsx)
+- react-placeholder - [here](https://github.com/DarkEye123/simple-user-cards/blob/master/src/hooks/useDummyPlaceholders.tsx)
+- react-async-hook - [here](https://github.com/DarkEye123/simple-user-cards/blob/master/src/views/User.tsx)
 
 ### `yarn start`
 
